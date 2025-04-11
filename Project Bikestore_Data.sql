@@ -1,4 +1,4 @@
--- update data production --
+-- insert data production --
 
 insert into production_brands (brand_name)
 values	('Electra'),
